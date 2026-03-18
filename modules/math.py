@@ -1,4 +1,4 @@
 a = int(input())
-b = 7
+b = 787
 c = a*b
 print(c)
